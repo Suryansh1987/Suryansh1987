@@ -130,32 +130,10 @@ mindmap
 | 💰 Business Revenue | ₹10L+ |
 | 👥 Clients Managed | 10+ Worldwide |
 | 🚀 Projects Built | 25+ |
-| ⭐ GitHub Stars | 100+ |
-| 🤝 Open Source Contributions | 50+ |
 
 </div>
 
----
 
-## 🎨 Fun Zone
-
-<div align="center">
-
-### 🎵 Coding Playlist
-*"Code never lies, comments sometimes do"* 🎧
-
-### ☕ Coffee Counter
-```
-☕☕☕☕☕☕☕☕☕☕ (Daily Average)
-```
-
-### 🎮 When not coding
-- 🏏 Cricket enthusiast
-- 📚 Reading tech blogs
-- 🎵 Music production
-- 🌍 Exploring new places
-
-</div>
 
 ---
 
@@ -164,10 +142,9 @@ mindmap
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-phi-sage-37.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suryanshsingh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh.personal@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/suryansh-singh-972754242/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh.singh.5806@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/sssuryansh_/?hl=en))
 
 </div>
 
