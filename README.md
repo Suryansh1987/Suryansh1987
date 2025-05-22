@@ -201,6 +201,6 @@ mindmap
 <img src="https://github-profile-trophy.vercel.app/?username=Suryansh1987&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
 
 ### 📊 Language Usage Over Time
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Suryansh1987&theme=tokyonight&layout=compact" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=suryansh1987&theme=tokyonight&layout=compact" width="100%"/>
 
 </details>
