@@ -129,8 +129,8 @@ mindmap
 | Goal | Progress | Status |
 |------|----------|--------|
 | 🚀 Launch 3 major open-source projects | 1/3 | 🟡 In Progress |
-| 📚 Master advanced system design patterns | 60% | 🟢 On Track |
-| 🤝 Contribute to 10+ open-source repositories | 4/10 | 🟡 In Progress |
+| 📚 Master advanced system design patterns | 10% | 🟢 On Track |
+| 🤝 Contribute to 10+ open-source repositories | 0/10 | 🟡 In Progress |
 | 💼 Scale marketing agency to ₹50L+ revenue | 20% | 🟢 On Track |
 | 🎓 Complete advanced ML specialization | 40% | 🟢 On Track |
 
@@ -140,8 +140,7 @@ mindmap
 | 💰 Business Revenue | ₹10L+ | 🥇 Entrepreneur |
 | 👥 Clients Managed | 10+ Worldwide | 🌍 Global Reach |
 | 🚀 Projects Built | 25+ | 🛠️ Builder |
-| ⭐ GitHub Stars | 100+ | ⭐ Popular |
-| 🤝 Open Source Contributions | 50+ | 🌱 Contributor |
+
 
 </div>
 
