@@ -165,30 +165,7 @@ mindmap
 
 ---
 
-## 🎨 Fun Zone
 
-<div align="center">
-
-### 🎵 Currently Vibing To
-```
-♪ ♫ ♪ ♫ Coding Beats & Lo-fi Hip Hop ♪ ♫ ♪ ♫
-```
-
-### ☕ Coffee Meter
-```
-☕☕☕☕☕☕☕☕☕☕ (Daily Average: 10 cups)
-```
-
-### 🌟 Fun Facts
-- 🎮 Gaming enthusiast when not coding
-- 🏏 Cricket fan & occasional player  
-- 📚 Love reading tech blogs and articles
-- 🎵 Enjoys music production in free time
-- 🌍 Dream: Travel the world while coding remotely
-
-</div>
-
----
 
 ## 🏆 Trophy Collection
 
