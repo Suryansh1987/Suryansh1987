@@ -193,17 +193,7 @@ mindmap
 
 ---
 
-<div align="center">
-  
-  ### 💭 Developer Wisdom
-  > *"Code never lies, comments sometimes do. Keep building, keep shipping. Consistency beats intensity."*
-  
-  ### 🐍 Contribution Snake Game
-  ![Snake animation](https://github.com/Suryansh1987/Suryansh1987/blob/output/github-contribution-grid-snake.svg)
 
-</div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%84;Let's+build+something+amazing+together!+%F0%9F%9A%80;Always+open+to+new+opportunities!+%F0%9F%92%BC;Happy+Coding!+%F0%9F%92%BB" alt="Closing message" />
