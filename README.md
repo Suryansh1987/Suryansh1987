@@ -23,7 +23,7 @@
 - 🔬 Currently exploring **AI/ML** and **Advanced System Design**
 - 💡 Passionate about building products that solve real problems
 - 🎯 Goal: Contributing to open-source and building impactful tech
-- 📍 Based in **Prayagraj, Uttar Pradesh, India**
+
 
 <br clear="right"/>
 
