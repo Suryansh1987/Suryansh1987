@@ -128,7 +128,7 @@ mindmap
 ### 🏆 Current Year Goals
 | Goal | Progress | Status |
 |------|----------|--------|
-| 🚀 Launch 3 major open-source projects | 1/3 | 🟡 In Progress |
+| 🚀 Production level Ai agents | 1/3 | 🟡 In Progress |
 | 📚 Master advanced system design patterns | 10% | 🟢 On Track |
 | 🤝 Contribute to 10+ open-source repositories | 0/10 | 🟡 In Progress |
 | 💼 Scale marketing agency to ₹50L+ revenue | 20% | 🟢 On Track |
