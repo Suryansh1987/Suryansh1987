@@ -1,192 +1,155 @@
-# 👨‍💻 Suryansh Singh
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Systems+Builder;Cloud+Native+Developer;Open+Source+Enthusiast;Always+Learning)
+```
+███████╗██╗   ██╗██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗██╗  ██╗
+██╔════╝██║   ██║██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝██║  ██║
+███████╗██║   ██║██████╔╝ ╚████╔╝ ███████║██╔██╗ ██║███████╗███████║
+╚════██║██║   ██║██╔══██╗  ╚██╔╝  ██╔══██║██║╚██╗██║╚════██║██╔══██║
+███████║╚██████╔╝██║  ██║   ██║   ██║  ██║██║ ╚████║███████║██║  ██║
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Suryansh1987&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Suryansh1987?label=Followers&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/Suryansh1987?label=Stars&style=for-the-badge&color=yellow"/>
-</p>
+**`I build things that think.`**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+%2B+AI+Systems+Engineer;Building+@+Codepup.ai;GCP+%7C+Azure+%7C+Cloud+Native;RAG+%2C+Agents+%2C+Pipelines;3rd+Year+%40+KIIT+University)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Suryansh1987&label=profile+views&color=0891b2&style=flat-square"/>
 
 </div>
 
 ---
 
-# 🌟 About Me
+## whoami
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+```bash
+$ curl -s https://suryansh.dev/about.json | jq
+```
 
-- 🎓 **B.Tech Computer Science Student (3rd Year)** — KIIT University  
-- 💻 **Full-Stack Developer**
-- 🚀 **Foundational Engineer at Codepup.ai**
-- ☁️ Experience working with **Azure** and **Google Cloud Platform**
-- 🤖 Interested in **AI systems, developer tooling, and automation**
-- 🔬 Currently exploring **AI agents, RAG systems, and scalable backend systems**
-
-<br clear="right"/>
-
----
-
-# 🚀 Work
-
-## 🐶 Codepup.ai
-
-**Foundational Engineer**
-
-Codepup is a platform that allows developers to generate **full-stack applications using AI prompts**.
-
-### Contributions
-
-- Built internal developer tools  
-- Contributed to AI-powered development workflows  
-- Worked on backend services and automation  
-- Improved developer experience  
-- Assisted with product experimentation  
-
-🔗 https://codepup.ai
+```json
+{
+  "name": "Suryansh Singh",
+  "role": "Foundational Engineer @ Codepup.ai",
+  "degree": "B.Tech CSE, 3rd Year — KIIT University",
+  "focus": ["AI Systems", "Full-Stack", "Cloud Infrastructure"],
+  "currently_building": "AI-powered full-stack app generator",
+  "currently_learning": ["RAG Pipelines", "AI Agents", "System Design at Scale"],
+  "open_to": "Collaborating on AI tooling, dev infrastructure, automation",
+  "cloud": ["GCP", "Azure", "AWS"],
+  "timezone": "IST (UTC+5:30)"
+}
+```
 
 ---
 
-# 🧠 Projects
+## 🏢 Where I Work
 
-## 📰 Autonomous News Curation System (GCP)
+<table>
+<tr>
+<td width="60">
+  <img src="https://img.shields.io/badge/🐶-Codepup.ai-0ea5e9?style=for-the-badge&labelColor=0f172a" />
+</td>
+<td>
 
-Built a **fully automated AI news pipeline on Google Cloud Platform**.
+**Foundational Engineer** — [codepup.ai](https://codepup.ai)
 
-### Features
+Codepup lets developers **generate full-stack applications from a prompt**. I'm part of the founding engineering team, contributing across the stack — from AI-powered dev workflows to backend services and internal tooling.
 
-- Collects news automatically from multiple sources  
-- AI summarizes and categorizes articles  
-- Stores processed data in cloud infrastructure  
-- Sends curated news directly to subscribed users  
-- Runs **without human intervention**
+What I do there:
+- Architect AI-powered code generation pipelines
+- Build and iterate on backend services & APIs
+- Design internal developer tooling to speed up the team
+- Run product experiments and improve DX
 
-### Tech Stack
-
-- Google Cloud Platform  
-- Cloud Functions  
-- Pub/Sub  
-- Python  
-- AI summarization pipeline  
-
----
-
-## 🤖 DocuAI
-
-Upload documents and ask questions based on the content.
-
-Tech Stack
-
-- React  
-- Python  
-- OpenAI API  
+</td>
+</tr>
+</table>
 
 ---
 
-## 💬 Instagram Messaging Extension
+## 🧠 Selected Projects
 
-Browser extension allowing users to send and receive Instagram messages directly from the browser.
+### 🗞️ Autonomous News Curation System
+> *Set it, forget it, stay informed.*
 
-Tech Stack
+A **fully automated, serverless AI news pipeline on GCP** — no human in the loop, ever.
 
-- JavaScript  
-- Chrome Extension APIs  
+| What it does | How |
+|---|---|
+| Collects articles from multiple sources | Cloud Scheduler + Cloud Functions |
+| AI reads, summarizes, categorizes each one | Python + LLM summarization pipeline |
+| Stores structured data | GCP Cloud Storage / Firestore |
+| Sends curated digest to subscribers | Pub/Sub → delivery service |
 
----
-
-## 🧠 Gemini Clone
-
-AI chatbot inspired by Google's Gemini interface.
-
-Tech Stack
-
-- React  
-- Gemini API  
+`GCP` `Cloud Functions` `Pub/Sub` `Python` `AI Pipelines`
 
 ---
 
-# 🛠️ Tech Stack
+### 📄 DocuAI
+> *Your documents, but searchable and talkable.*
 
-## Languages & Frameworks
+Upload any document → ask questions → get answers grounded in the actual content. A clean RAG-adjacent system before RAG was the buzzword.
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css,react,nextjs,nodejs,express"/>
-</p>
+`React` `Python` `OpenAI API`
 
-## Cloud Platforms
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,azure,aws"/>
-</p>
+### 🔌 Instagram Messaging Browser Extension
+> *DMs without opening Instagram.*
 
-## Databases
+A Chrome extension that lets you **send and receive Instagram DMs straight from your browser** — no tab switching, no noise.
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase"/>
-</p>
+`JavaScript` `Chrome Extension APIs` `DOM Engineering`
 
-## Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,linux"/>
+### 🤖 Gemini Clone
+> *A clean, faithful Gemini UI rebuild.*
+
+Rebuilt Google's Gemini interface as a React app — focused on interaction fidelity and smooth state management.
+
+`React` `Gemini API`
+
+---
+
+## 🛠 Stack
+
+```
+Languages     →  JavaScript  TypeScript  Python  C  HTML/CSS
+Frontend      →  React  Next.js
+Backend       →  Node.js  Express
+Cloud         →  Google Cloud Platform  Azure  AWS
+Databases     →  MongoDB  PostgreSQL  MySQL  Firebase
+Tools         →  Docker  Git  Postman  Figma  Linux  VS Code
+```
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,react,nextjs,nodejs,express,gcp,azure,aws,mongodb,postgresql,mysql,firebase,docker,git,figma,linux,vscode&perline=10" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suryansh1987&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Suryansh1987&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38bdf8&icon_color=38bdf8"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suryansh1987&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38bdf8"/>
 
-<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Suryansh1987&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="94%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh1987&theme=tokyonight&hide_border=true&background=0D1117&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8"/>
 
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suryansh1987&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suryansh1987&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suryansh1987&theme=tokyo-night&bg_color=0d1117&color=38bdf8&line=7c3aed&point=f97316&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌱 Current Learning
-
-- AI Agents  
-- RAG Systems  
-- Scalable Cloud Infrastructure  
-- Advanced System Design  
-
----
-
-# 🏆 GitHub Trophies
+## 📡 Find Me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Suryansh1987&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🤝 Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-singh-972754242/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh.singh.5806@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sssuryansh_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Suryansh_Singh-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suryansh-singh-972754242/)
+[![Email](https://img.shields.io/badge/Email-suryansh.singh.5806@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh.singh.5806@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@sssuryansh__-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sssuryansh_/)
 
 </div>
 
@@ -194,14 +157,6 @@ Tech Stack
 
 <div align="center">
 
-💬 Open to collaborating on **AI systems, cloud infrastructure, and developer tools**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+*If you're building something in the AI / developer tools / cloud space — let's talk.*
 
 </div>
